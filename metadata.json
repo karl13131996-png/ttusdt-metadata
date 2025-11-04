@@ -1,0 +1,11 @@
+{
+  "name": "Ttethor USDT",
+  "symbol": "TTUSDT",
+  "description": "Ttethor USDT is a meme coin on Solana mainnet.",
+  "image": "https://raw.githubusercontent.com/karl13131996-png/ttusdt-metadata/main/logo.png",
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://x.com/yourhandle",
+    "telegram": "https://t.me/yourchannel"
+  }
+}
